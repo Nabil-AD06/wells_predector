@@ -28,7 +28,7 @@ composite = ndvi.addBands(ndwi).addBands(elevation).addBands(slope)
 # 🚀 Route API
 @app.route('/')
 def home():
-    return "API Water Detection is running 🚀"
+    return "API Water Detection is running "
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
@@ -44,7 +44,7 @@ def predict():
             scale=30
         ).getInfo()
 
-        # 🔥 Sécurité si données manquantes
+        # Sécurité si données manquantes
         if values is None:
             return jsonify({"probability": 0.0})
 

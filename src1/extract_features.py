@@ -1,9 +1,9 @@
 import ee
 import pandas as pd
 
-ee.Initialize(project='water-detection-ai')
+ee.Initialize(project='ur-project-id')
 
-print("✅ GEE connecté !")
+print(" GEE connecté !")
 
 # Charger dataset
 df = pd.read_csv("data/wells.csv")
@@ -29,7 +29,7 @@ composite = ndvi.addBands(ndwi) \
                .addBands(elevation) \
                .addBands(slope)
 
-# 🔥 Extraction pour tous les points
+#  Extraction pour tous les points
 results = []
 
 for i, row in df.iterrows():
@@ -37,7 +37,7 @@ for i, row in df.iterrows():
         print(f"Progression : {i}/{len(df)}")
 
     try:
-        point = ee.Geometry.Point([row['longitude'], row['latitude']])
+        point = ee.Geometry.Point(row['lon'], row['lat'])
 
         values = composite.reduceRegion(
             reducer=ee.Reducer.mean(),
@@ -46,19 +46,19 @@ for i, row in df.iterrows():
         ).getInfo()
 
         if values:
-            values['latitude'] = row['latitude']
-            values['longitude'] = row['longitude']
+            values['lat'] = row['lat']
+            values['lon'] = row['lon']
             values['label'] = row['label']
 
             results.append(values)
 
-    except:
-        pass
+    except Exception as e:
+        print("Erreur:", e)
 
-# 📊 Convertir en DataFrame
+#  Convertir en DataFrame
 dataset = pd.DataFrame(results)
 
-# 💾 Sauvegarder
+#  Sauvegarder
 dataset.to_csv("data/dataset.csv", index=False)
 
 print("\n✅ Dataset créé !")

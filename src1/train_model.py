@@ -31,16 +31,16 @@ model = RandomForestClassifier(
 # Train
 model.fit(X_train, y_train)
 
-print("✅ Modèle entraîné !")
+print(" Modèle entraîné !")
 
 # Évaluation
 y_pred = model.predict(X_test)
 y_prob = model.predict_proba(X_test)[:, 1]
 
-print("\n📊 Résultats :")
+print("\n Résultats :")
 print(classification_report(y_test, y_pred))
 print("AUC :", roc_auc_score(y_test, y_prob))
 
 # Sauvegarde
 joblib.dump(model, "models/well_detector.pkl")
-print("\n💾 Modèle sauvegardé !")
+print("\n Modèle sauvegardé !")

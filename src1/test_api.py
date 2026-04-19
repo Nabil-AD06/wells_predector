@@ -1,6 +1,6 @@
 import requests
 
-url = "http://127.0.0.1:5000/predict"
+url = "URL-dpnner-par-app.py/predict"
 
 data = {
     "lat": 31.5,

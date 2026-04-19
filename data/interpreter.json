@@ -1,0 +1,4873 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-04-18T06:59:21Z",
+    "timestamp_areas_base": "2026-04-17T23:00:58Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1224717137,
+  "lat": 26.8593754,
+  "lon": -12.2031702,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1224717174,
+  "lat": 26.8613458,
+  "lon": -12.1643050,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1313218956,
+  "lat": 27.6125899,
+  "lon": -11.1046547,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1313219120,
+  "lat": 27.6125977,
+  "lon": -11.1047045,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1313219207,
+  "lat": 27.6125588,
+  "lon": -11.1045846,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1835829191,
+  "lat": 34.2576755,
+  "lon": -4.6239488,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1862206779,
+  "lat": 28.8309658,
+  "lon": -9.0484935,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 1862206782,
+  "lat": 28.8593011,
+  "lon": -9.0187749,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 2018403124,
+  "lat": 34.0281173,
+  "lon": -4.8834863,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 2136545851,
+  "lat": 29.3480185,
+  "lon": -9.1467940,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2136546141,
+  "lat": 29.3580219,
+  "lon": -9.1660129,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2136566988,
+  "lat": 29.3309660,
+  "lon": -9.1446786,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2136567168,
+  "lat": 29.3289690,
+  "lon": -9.1458641,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2136600169,
+  "lat": 29.4260438,
+  "lon": -9.1420151,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137350993,
+  "lat": 29.3994420,
+  "lon": -9.1985299,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351001,
+  "lat": 29.3740146,
+  "lon": -9.1936697,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351121,
+  "lat": 29.3746083,
+  "lon": -9.1906603,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351150,
+  "lat": 29.3933288,
+  "lon": -9.1967543,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351160,
+  "lat": 29.3924641,
+  "lon": -9.1959657,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351172,
+  "lat": 29.3750009,
+  "lon": -9.1946729,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351389,
+  "lat": 29.3711910,
+  "lon": -9.1958048,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351434,
+  "lat": 29.3808888,
+  "lon": -9.2011606,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137351992,
+  "lat": 29.3766836,
+  "lon": -9.1940616,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137352208,
+  "lat": 29.3841816,
+  "lon": -9.2031755,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137352247,
+  "lat": 29.3898654,
+  "lon": -9.1937287,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137352269,
+  "lat": 29.3904964,
+  "lon": -9.1912343,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137352332,
+  "lat": 29.3913985,
+  "lon": -9.1913416,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137352724,
+  "lat": 29.3885380,
+  "lon": -9.1959121,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137352862,
+  "lat": 29.3680588,
+  "lon": -9.1929616,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137352968,
+  "lat": 29.3730749,
+  "lon": -9.1949036,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2137384944,
+  "lat": 29.4104384,
+  "lon": -9.1930448,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137785916,
+  "lat": 29.3566072,
+  "lon": -9.2427158,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2137786602,
+  "lat": 29.3588660,
+  "lon": -9.2446251,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2137786859,
+  "lat": 29.3517450,
+  "lon": -9.2412991,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2137845213,
+  "lat": 29.3542888,
+  "lon": -9.2320992,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2137845344,
+  "lat": 29.3548918,
+  "lon": -9.2330165,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2137971994,
+  "lat": 29.3468208,
+  "lon": -9.2620814,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2137972151,
+  "lat": 29.3486631,
+  "lon": -9.2698142,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2138778518,
+  "lat": 29.3812971,
+  "lon": -9.1569455,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2149136360,
+  "lat": 29.3295935,
+  "lon": -9.3021787,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2149137599,
+  "lat": 29.3285552,
+  "lon": -9.2990673,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2149204283,
+  "lat": 29.3048783,
+  "lon": -9.3534571,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2149204917,
+  "lat": 29.3034703,
+  "lon": -9.3504477,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2242679781,
+  "lat": 29.4234996,
+  "lon": -9.1532228,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2242679857,
+  "lat": 29.4207568,
+  "lon": -9.1513989,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2242680043,
+  "lat": 29.4156916,
+  "lon": -9.1551057,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2242680058,
+  "lat": 29.4265331,
+  "lon": -9.1593256,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2242739122,
+  "lat": 29.3932361,
+  "lon": -9.1762737,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2252607142,
+  "lat": 29.8373747,
+  "lon": -8.8620257,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2252607281,
+  "lat": 29.8208773,
+  "lon": -8.8655501,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2252644517,
+  "lat": 29.8362114,
+  "lon": -8.8552397,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2252644527,
+  "lat": 29.8377190,
+  "lon": -8.8531422,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2252644557,
+  "lat": 29.8332657,
+  "lon": -8.8525467,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2254455066,
+  "lat": 29.3088860,
+  "lon": -9.3422074,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255661620,
+  "lat": 29.3091071,
+  "lon": -9.3472772,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255661637,
+  "lat": 29.3097189,
+  "lon": -9.3447715,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255661897,
+  "lat": 29.3081565,
+  "lon": -9.3496532,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255661988,
+  "lat": 29.3359434,
+  "lon": -9.2878712,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255717747,
+  "lat": 29.3143310,
+  "lon": -9.3288339,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773201,
+  "lat": 29.3444963,
+  "lon": -9.2526484,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773205,
+  "lat": 29.3392356,
+  "lon": -9.2871470,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773213,
+  "lat": 29.3465632,
+  "lon": -9.2651958,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773342,
+  "lat": 29.3493500,
+  "lon": -9.2643375,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773363,
+  "lat": 29.3442719,
+  "lon": -9.2627818,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773383,
+  "lat": 29.3499298,
+  "lon": -9.2715902,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773391,
+  "lat": 29.3481811,
+  "lon": -9.2737091,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773500,
+  "lat": 29.3510333,
+  "lon": -9.2678565,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773559,
+  "lat": 29.3431637,
+  "lon": -9.2551321,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773563,
+  "lat": 29.3422144,
+  "lon": -9.2551053,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773718,
+  "lat": 29.3432993,
+  "lon": -9.2626852,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773774,
+  "lat": 29.3496399,
+  "lon": -9.2664457,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773822,
+  "lat": 29.3549142,
+  "lon": -9.2702008,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773883,
+  "lat": 29.3490227,
+  "lon": -9.2588443,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255773930,
+  "lat": 29.3416906,
+  "lon": -9.2585868,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255774197,
+  "lat": 29.3424669,
+  "lon": -9.2609471,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255774405,
+  "lat": 29.3431169,
+  "lon": -9.2639298,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255774410,
+  "lat": 29.3497241,
+  "lon": -9.2729581,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255774441,
+  "lat": 29.3431870,
+  "lon": -9.2582757,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255812831,
+  "lat": 29.3457262,
+  "lon": -9.2785317,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255812940,
+  "lat": 29.3494903,
+  "lon": -9.2812944,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255813009,
+  "lat": 29.3410594,
+  "lon": -9.2875600,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255813034,
+  "lat": 29.3476854,
+  "lon": -9.2834616,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255813117,
+  "lat": 29.3480034,
+  "lon": -9.2767936,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255813138,
+  "lat": 29.3461400,
+  "lon": -9.2402405,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2255813161,
+  "lat": 29.3461143,
+  "lon": -9.2807687,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255813227,
+  "lat": 29.3397874,
+  "lon": -9.2546171,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868239,
+  "lat": 29.3647652,
+  "lon": -9.2027110,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868386,
+  "lat": 29.3621939,
+  "lon": -9.2182839,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868419,
+  "lat": 29.3616702,
+  "lon": -9.2216635,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868481,
+  "lat": 29.3625118,
+  "lon": -9.2044813,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868587,
+  "lat": 29.3644473,
+  "lon": -9.2053718,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868648,
+  "lat": 29.3638162,
+  "lon": -9.2016596,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868812,
+  "lat": 29.3635450,
+  "lon": -9.2028773,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2255868817,
+  "lat": 29.3748257,
+  "lon": -9.2005009,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2255902196,
+  "lat": 29.3992996,
+  "lon": -9.1950077,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2255902395,
+  "lat": 29.3817768,
+  "lon": -9.1988326,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2255902482,
+  "lat": 29.4007951,
+  "lon": -9.1983390,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2259726656,
+  "lat": 29.3437726,
+  "lon": -9.2066972,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2259727116,
+  "lat": 29.3526242,
+  "lon": -9.2204998,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2259727152,
+  "lat": 29.3509921,
+  "lon": -9.2171594,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2259727384,
+  "lat": 29.3334977,
+  "lon": -9.1996822,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2259741245,
+  "lat": 29.3649019,
+  "lon": -9.2067428,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2259741253,
+  "lat": 29.3574775,
+  "lon": -9.2199607,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2259741270,
+  "lat": 29.3610542,
+  "lon": -9.2088725,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2259741320,
+  "lat": 29.3577720,
+  "lon": -9.2156584,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2259746141,
+  "lat": 29.3731766,
+  "lon": -9.2208834,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2259746248,
+  "lat": 29.3707784,
+  "lon": -9.2236005,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2259746254,
+  "lat": 29.3731018,
+  "lon": -9.2233886,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2261986969,
+  "lat": 29.3481770,
+  "lon": -9.1479647,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2261987009,
+  "lat": 29.3640038,
+  "lon": -9.1486674,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2261987436,
+  "lat": 29.3650184,
+  "lon": -9.1499012,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2262009068,
+  "lat": 29.4048523,
+  "lon": -9.1473585,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2262009144,
+  "lat": 29.4006088,
+  "lon": -9.1697147,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2262009530,
+  "lat": 29.4096003,
+  "lon": -9.1547990,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2262009649,
+  "lat": 29.4059599,
+  "lon": -9.1510117,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2262040162,
+  "lat": 29.3979262,
+  "lon": -9.1868916,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266182826,
+  "lat": 29.3633467,
+  "lon": -9.2359359,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2266183277,
+  "lat": 29.3643986,
+  "lon": -9.2372663,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2266600186,
+  "lat": 29.3189252,
+  "lon": -9.3399775,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266600216,
+  "lat": 29.3134526,
+  "lon": -9.3444755,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266600659,
+  "lat": 29.3002518,
+  "lon": -9.3570980,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266600921,
+  "lat": 29.3139999,
+  "lon": -9.3422976,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266608086,
+  "lat": 29.3008272,
+  "lon": -9.3648120,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266608524,
+  "lat": 29.3059075,
+  "lon": -9.3652036,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266623641,
+  "lat": 29.3145144,
+  "lon": -9.2576363,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2266623959,
+  "lat": 29.3279707,
+  "lon": -9.2451480,
+  "tags": {
+    "designation": "cistern",
+    "man_made": "water_well",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2267023763,
+  "lat": 29.3051049,
+  "lon": -9.3428817,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2267024344,
+  "lat": 29.3067982,
+  "lon": -9.3389067,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2267024512,
+  "lat": 29.3078929,
+  "lon": -9.3326303,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2270580084,
+  "lat": 29.3291877,
+  "lon": -9.4771205,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2271000152,
+  "lat": 29.3730253,
+  "lon": -9.2134874,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2271000288,
+  "lat": 29.3816453,
+  "lon": -9.2127364,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2271000327,
+  "lat": 29.3806450,
+  "lon": -9.2161428,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2271000456,
+  "lat": 29.3805421,
+  "lon": -9.2102795,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2271000635,
+  "lat": 29.3802243,
+  "lon": -9.2192488,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2271000646,
+  "lat": 29.3796353,
+  "lon": -9.2075490,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2271000656,
+  "lat": 29.3760452,
+  "lon": -9.2114060,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2271537920,
+  "lat": 29.3203753,
+  "lon": -9.4593977,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2271538045,
+  "lat": 29.3215305,
+  "lon": -9.4567799,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2271538098,
+  "lat": 29.3135042,
+  "lon": -9.4709634,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2272706319,
+  "lat": 29.3183232,
+  "lon": -9.3368322,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2272706384,
+  "lat": 29.3256991,
+  "lon": -9.3304592,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2272739813,
+  "lat": 29.2957668,
+  "lon": -9.3682945,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2273823689,
+  "lat": 29.2896857,
+  "lon": -9.3698042,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2274674101,
+  "lat": 29.3059850,
+  "lon": -9.5007168,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2274674345,
+  "lat": 29.3124306,
+  "lon": -9.5047533,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2274674600,
+  "lat": 29.3144207,
+  "lon": -9.4948054,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2274674800,
+  "lat": 29.3115348,
+  "lon": -9.4977423,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2274726405,
+  "lat": 29.3129454,
+  "lon": -9.4621305,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746247,
+  "lat": 29.3834698,
+  "lon": -9.2202019,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746256,
+  "lat": 29.3522967,
+  "lon": -9.2071878,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746385,
+  "lat": 29.3780568,
+  "lon": -9.2175948,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746547,
+  "lat": 29.3815346,
+  "lon": -9.2252391,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746579,
+  "lat": 29.3510108,
+  "lon": -9.2084699,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746610,
+  "lat": 29.3756727,
+  "lon": -9.2032986,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746730,
+  "lat": 29.3546111,
+  "lon": -9.2039316,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2296746807,
+  "lat": 29.3826050,
+  "lon": -9.2258453,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2333461045,
+  "lat": 29.8875321,
+  "lon": -8.4820355,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2334141373,
+  "lat": 29.9532693,
+  "lon": -8.4204736,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2334141582,
+  "lat": 29.9529591,
+  "lon": -8.4188318,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2334152593,
+  "lat": 29.8742235,
+  "lon": -8.4797504,
+  "tags": {
+    "designation": "cistern",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2396484410,
+  "lat": 31.1435501,
+  "lon": -4.0219450,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 2458979932,
+  "lat": 29.3757661,
+  "lon": -9.2247446,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2458991691,
+  "lat": 29.3810716,
+  "lon": -9.2049560,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 2458991764,
+  "lat": 29.3529045,
+  "lon": -9.2737372,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2458991842,
+  "lat": 29.3500661,
+  "lon": -9.2758990,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2458992083,
+  "lat": 29.3491452,
+  "lon": -9.2786188,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2913926502,
+  "lat": 29.4241794,
+  "lon": -9.1644702,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2913926558,
+  "lat": 29.4266370,
+  "lon": -9.1629628,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2913926663,
+  "lat": 29.4243195,
+  "lon": -9.1642235,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2913927626,
+  "lat": 29.4250811,
+  "lon": -9.1640196,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2913927675,
+  "lat": 29.4298378,
+  "lon": -9.1633652,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3057482559,
+  "lat": 34.0481110,
+  "lon": -6.7848536,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Château Hay Salam",
+    "operator": "ONEP"
+  }
+},
+{
+  "type": "node",
+  "id": 3161718792,
+  "lat": 29.9039925,
+  "lon": -5.7535167,
+  "tags": {
+    "man_made": "water_well",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3208675249,
+  "lat": 29.4160561,
+  "lon": -9.1520448,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3208693145,
+  "lat": 29.3809924,
+  "lon": -9.1410693,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244070075,
+  "lat": 29.3018251,
+  "lon": -9.5109548,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244070197,
+  "lat": 29.3090092,
+  "lon": -9.5073094,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244070295,
+  "lat": 29.2804268,
+  "lon": -9.5300440,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244070674,
+  "lat": 29.3117013,
+  "lon": -9.5086403,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244070675,
+  "lat": 29.2795139,
+  "lon": -9.5297710,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244082157,
+  "lat": 29.3249304,
+  "lon": -9.4933681,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244657204,
+  "lat": 29.3302997,
+  "lon": -9.4809332,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244657353,
+  "lat": 29.3303536,
+  "lon": -9.4722036,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244657510,
+  "lat": 29.3301490,
+  "lon": -9.4700321,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244682631,
+  "lat": 29.3097714,
+  "lon": -9.5510860,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244682853,
+  "lat": 29.3060900,
+  "lon": -9.5495947,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244682862,
+  "lat": 29.3019946,
+  "lon": -9.5270507,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244682868,
+  "lat": 29.3185861,
+  "lon": -9.5496456,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244683003,
+  "lat": 29.3187359,
+  "lon": -9.5496081,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244683056,
+  "lat": 29.3019220,
+  "lon": -9.5248457,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244713774,
+  "lat": 29.2662038,
+  "lon": -9.5365079,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244714331,
+  "lat": 29.2552172,
+  "lon": -9.5441230,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244714557,
+  "lat": 29.2685377,
+  "lon": -9.5302709,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244728729,
+  "lat": 29.2620575,
+  "lon": -9.5613291,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752673,
+  "lat": 29.3098205,
+  "lon": -9.4859272,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752678,
+  "lat": 29.3270401,
+  "lon": -9.4507049,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752679,
+  "lat": 29.3196759,
+  "lon": -9.4733023,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752697,
+  "lat": 29.3181115,
+  "lon": -9.4819981,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752702,
+  "lat": 29.3203471,
+  "lon": -9.4707301,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752716,
+  "lat": 29.3272555,
+  "lon": -9.4485913,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752719,
+  "lat": 29.3199192,
+  "lon": -9.4721409,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752918,
+  "lat": 29.2893278,
+  "lon": -9.5037557,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752927,
+  "lat": 29.3185371,
+  "lon": -9.4823329,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244752928,
+  "lat": 29.3027265,
+  "lon": -9.5018409,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244804135,
+  "lat": 29.3028436,
+  "lon": -9.5553638,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244804147,
+  "lat": 29.3068757,
+  "lon": -9.5560880,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244804266,
+  "lat": 29.2754738,
+  "lon": -9.5670743,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244804685,
+  "lat": 29.2903153,
+  "lon": -9.5291916,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3244805212,
+  "lat": 29.3248789,
+  "lon": -9.4550714,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3266573557,
+  "lat": 29.8448510,
+  "lon": -8.8608392,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3266573591,
+  "lat": 29.8465632,
+  "lon": -8.8668473,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3266573629,
+  "lat": 29.8467445,
+  "lon": -8.8753496,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280624014,
+  "lat": 29.3947740,
+  "lon": -9.2091206,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280625270,
+  "lat": 29.4042403,
+  "lon": -9.1342576,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280625732,
+  "lat": 29.4029598,
+  "lon": -9.1202619,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280625977,
+  "lat": 29.3969213,
+  "lon": -9.2005887,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280626047,
+  "lat": 29.4153435,
+  "lon": -9.1533387,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280626259,
+  "lat": 29.4027308,
+  "lon": -9.1376265,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741128,
+  "lat": 29.3575006,
+  "lon": -9.2251738,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741181,
+  "lat": 29.3596560,
+  "lon": -9.2191656,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741225,
+  "lat": 29.3603386,
+  "lon": -9.2263915,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741571,
+  "lat": 29.3553218,
+  "lon": -9.2385473,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741607,
+  "lat": 29.3356730,
+  "lon": -9.2420449,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741779,
+  "lat": 29.3929629,
+  "lon": -9.2156144,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741803,
+  "lat": 29.3597776,
+  "lon": -9.2332526,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741817,
+  "lat": 29.3612223,
+  "lon": -9.2326571,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741825,
+  "lat": 29.3585010,
+  "lon": -9.2351731,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3280741969,
+  "lat": 29.3748404,
+  "lon": -9.1653820,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3308546003,
+  "lat": 29.8863325,
+  "lon": -8.4819223,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "no",
+    "source": "aerial bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3909253100,
+  "lat": 33.4139597,
+  "lon": -4.3895342,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Aïn ⴰⵏⵓ عين",
+    "name:ar": "عين",
+    "name:ber": "ⴰⵏⵓ",
+    "name:fr": "Aïn",
+    "name:zgh": "ⴰⵏⵓ"
+  }
+},
+{
+  "type": "node",
+  "id": 3917167531,
+  "lat": 30.8278381,
+  "lon": -5.6646128,
+  "tags": {
+    "addr:city": "tamsahelte",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3929028430,
+  "lat": 29.7425869,
+  "lon": -8.9131385,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3929028431,
+  "lat": 29.7421071,
+  "lon": -8.9179560,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3929060057,
+  "lat": 29.7651604,
+  "lon": -8.8484730,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3929119447,
+  "lat": 29.7416126,
+  "lon": -8.8901985,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3958902662,
+  "lat": 29.7654278,
+  "lon": -8.8500362,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3958902663,
+  "lat": 29.7655428,
+  "lon": -8.8495991,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3958902664,
+  "lat": 29.7652663,
+  "lon": -8.8496930,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3958902665,
+  "lat": 29.7651680,
+  "lon": -8.8497589,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 3958902666,
+  "lat": 29.7650903,
+  "lon": -8.8498180,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4069608879,
+  "lat": 23.6799257,
+  "lon": -15.7310300,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4069697829,
+  "lat": 23.5947159,
+  "lon": -15.7258507,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4139950757,
+  "lat": 33.1642134,
+  "lon": -2.9917603,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4364803789,
+  "lat": 33.9019977,
+  "lon": -4.0288145,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Tmourghout",
+    "name:fr": "Tmourghout"
+  }
+},
+{
+  "type": "node",
+  "id": 4392787521,
+  "lat": 32.2179699,
+  "lon": -1.3283537,
+  "tags": {
+    "locality": "place",
+    "man_made": "water_well",
+    "name": "Hassi Mennassa حاسي مناسة",
+    "name:ar": "حاسي مناسة",
+    "name:fr": "Hassi Mennassa"
+  }
+},
+{
+  "type": "node",
+  "id": 4395478097,
+  "lat": 32.4579239,
+  "lon": -1.4627593,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Hassi Tarchoun حاسي الطرشون",
+    "name:ar": "حاسي الطرشون",
+    "name:en": "Hassi Tarchoun",
+    "name:fr": "Hassi Tarchoun",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4431010189,
+  "lat": 30.0747000,
+  "lon": -5.3368593,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Tadrart"
+  }
+},
+{
+  "type": "node",
+  "id": 4583630055,
+  "lat": 30.4747845,
+  "lon": -8.8702405,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4665385319,
+  "lat": 29.5905687,
+  "lon": -8.8280202,
+  "tags": {
+    "man_made": "water_well",
+    "source": "vu sur plac, eau à -17 m"
+  }
+},
+{
+  "type": "node",
+  "id": 4720658086,
+  "lat": 34.9308985,
+  "lon": -2.2364285,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Aïn Erreggada"
+  }
+},
+{
+  "type": "node",
+  "id": 4743043523,
+  "lat": 34.5800027,
+  "lon": -2.4920167,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4743043524,
+  "lat": 34.5799816,
+  "lon": -2.4920129,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4743071421,
+  "lat": 34.5800533,
+  "lon": -2.4920588,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4743071422,
+  "lat": 34.5799932,
+  "lon": -2.4920156,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4743071521,
+  "lat": 34.5800690,
+  "lon": -2.4919787,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4743071821,
+  "lat": 34.5800189,
+  "lon": -2.4920373,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4743125022,
+  "lat": 34.5800220,
+  "lon": -2.4920528,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4775947423,
+  "lat": 31.5328512,
+  "lon": -5.5347767,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4775952022,
+  "lat": 31.5328240,
+  "lon": -5.5349259,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4775952023,
+  "lat": 31.5328445,
+  "lon": -5.5349328,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4785998221,
+  "lat": 23.2084567,
+  "lon": -16.1099076,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4801299636,
+  "lat": 34.9027128,
+  "lon": -3.6028441,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4880159523,
+  "lat": 31.5153699,
+  "lon": -9.7698685,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4925564952,
+  "lat": 30.9617540,
+  "lon": -6.0888344,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 4992809510,
+  "lat": 29.7495929,
+  "lon": -9.0413951,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Azerg Waman"
+  }
+},
+{
+  "type": "node",
+  "id": 5039170322,
+  "lat": 32.0058597,
+  "lon": -5.1014543,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5124668227,
+  "lat": 29.6668476,
+  "lon": -8.7948806,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5189220868,
+  "lat": 29.7288700,
+  "lon": -5.9881060,
+  "tags": {
+    "man_made": "water_well",
+    "note": "salty_water"
+  }
+},
+{
+  "type": "node",
+  "id": 5232871140,
+  "lat": 30.3207634,
+  "lon": -7.8558407,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "AGDDA"
+  }
+},
+{
+  "type": "node",
+  "id": 5233213424,
+  "lat": 30.2065988,
+  "lon": -7.8483629,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5233531219,
+  "lat": 31.7766043,
+  "lon": -4.1470975,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Puit"
+  }
+},
+{
+  "type": "node",
+  "id": 5236321452,
+  "lat": 30.2503826,
+  "lon": -7.8579466,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5236797344,
+  "lat": 30.3405672,
+  "lon": -7.8687724,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5244032476,
+  "lat": 30.2467855,
+  "lon": -7.8017827,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5268734807,
+  "lat": 32.3336043,
+  "lon": -5.0103315,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5376000559,
+  "lat": 30.3522034,
+  "lon": -5.8246803,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5379623929,
+  "lat": 31.5329155,
+  "lon": -5.5350219,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5407693359,
+  "lat": 31.2598472,
+  "lon": -6.1475872,
+  "tags": {
+    "description": "It contains only one electric pump.",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5418833380,
+  "lat": 30.2973341,
+  "lon": -7.8917763,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5434763836,
+  "lat": 30.2717603,
+  "lon": -7.8844564,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362558,
+  "lat": 32.7526108,
+  "lon": -8.3107403,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Zaouaoui El Idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362561,
+  "lat": 32.7675470,
+  "lon": -8.3060719,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Famille Bouchaib Zaouaoui El Idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362562,
+  "lat": 32.7663314,
+  "lon": -8.3077268,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Famille Bouchaib Zaouaoui El Idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362563,
+  "lat": 32.7638413,
+  "lon": -8.3107818,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Famille Bouchaib Zaouaoui El idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362564,
+  "lat": 32.7530594,
+  "lon": -8.3083330,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Famille Bouchaib Zaouaoui El Idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362565,
+  "lat": 32.7556964,
+  "lon": -8.2829271,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Famille Bouchaib Zaouaoui El idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362566,
+  "lat": 32.7417291,
+  "lon": -8.3263494,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Famille Bouchaib Zaouaoui El Idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5440362567,
+  "lat": 32.7527655,
+  "lon": -8.3237284,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Eau potable pour Ouled Bousselham"
+  }
+},
+{
+  "type": "node",
+  "id": 5440827571,
+  "lat": 32.7542045,
+  "lon": -8.3073555,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Mouhssin El Idrissi"
+  }
+},
+{
+  "type": "node",
+  "id": 5457414343,
+  "lat": 30.1933514,
+  "lon": -7.8618168,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5473830040,
+  "lat": 29.8682447,
+  "lon": -5.8612021,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Well"
+  }
+},
+{
+  "type": "node",
+  "id": 5473830042,
+  "lat": 29.9041401,
+  "lon": -5.7536001,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Well"
+  }
+},
+{
+  "type": "node",
+  "id": 5640084714,
+  "lat": 31.3981456,
+  "lon": -3.8058691,
+  "tags": {
+    "description": "Puit. Eau",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5640506777,
+  "lat": 32.1324738,
+  "lon": -3.6928324,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5715215441,
+  "lat": 31.2996946,
+  "lon": -3.9712536,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5715215442,
+  "lat": 31.2994930,
+  "lon": -3.9696953,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5715215468,
+  "lat": 31.2966185,
+  "lon": -3.9748471,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5765698853,
+  "lat": 30.6361717,
+  "lon": -8.2737305,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 5884079215,
+  "lat": 30.8618095,
+  "lon": -6.1460486,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5899962768,
+  "lat": 31.4281463,
+  "lon": -6.8514902,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "Puits eau potable"
+  }
+},
+{
+  "type": "node",
+  "id": 6139968785,
+  "lat": 29.8489951,
+  "lon": -6.0441638,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Brunnen",
+    "name:en": "Waterwell"
+  }
+},
+{
+  "type": "node",
+  "id": 6149532692,
+  "lat": 29.7979420,
+  "lon": -6.4008558,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6149608971,
+  "lat": 29.7691178,
+  "lon": -6.8994221,
+  "tags": {
+    "man_made": "water_well",
+    "source": "GPS, Survey"
+  }
+},
+{
+  "type": "node",
+  "id": 6149634874,
+  "lat": 30.1269039,
+  "lon": -5.2378607,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6172518895,
+  "lat": 30.0230153,
+  "lon": -6.2253218,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Puits"
+  }
+},
+{
+  "type": "node",
+  "id": 6211345286,
+  "lat": 34.8655763,
+  "lon": -2.1998073,
+  "tags": {
+    "man_made": "water_well",
+    "operator": "puit de village"
+  }
+},
+{
+  "type": "node",
+  "id": 6282406905,
+  "lat": 30.1487134,
+  "lon": -7.7572399,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6307646343,
+  "lat": 30.1987211,
+  "lon": -7.7698517,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6388394048,
+  "lat": 30.0472792,
+  "lon": -8.4470864,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Water Well بئر ماء",
+    "name:ar": "Water Well بئر ماء"
+  }
+},
+{
+  "type": "node",
+  "id": 6388394049,
+  "lat": 30.0496408,
+  "lon": -8.4488701,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر ماء Water Well",
+    "name:ar": "بئر ماء Water Well"
+  }
+},
+{
+  "type": "node",
+  "id": 6388394051,
+  "lat": 30.0499545,
+  "lon": -8.4503273,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر ماء Water Well",
+    "name:ar": "بئر ماء Water Well"
+  }
+},
+{
+  "type": "node",
+  "id": 6388394052,
+  "lat": 30.0448179,
+  "lon": -8.4470292,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر ماء",
+    "name:ar": "بئر ماء",
+    "name:en": "Water Well"
+  }
+},
+{
+  "type": "node",
+  "id": 6388394053,
+  "lat": 30.0485272,
+  "lon": -8.4488736,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر ماء Water Well",
+    "name:ar": "بئر ماء Water Well"
+  }
+},
+{
+  "type": "node",
+  "id": 6425369259,
+  "lat": 31.1243070,
+  "lon": -7.9062116,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6449246980,
+  "lat": 30.3680854,
+  "lon": -7.8681736,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6594463211,
+  "lat": 31.3362059,
+  "lon": -9.7942468,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6833996609,
+  "lat": 33.5389204,
+  "lon": -7.7531124,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 6982753302,
+  "lat": 31.1719151,
+  "lon": -5.4860177,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Brunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 7001461020,
+  "lat": 31.6221183,
+  "lon": -4.0708555,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7001461021,
+  "lat": 31.6091422,
+  "lon": -4.0935831,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7002923585,
+  "lat": 31.4853772,
+  "lon": -5.8968749,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7040461387,
+  "lat": 32.3015015,
+  "lon": -6.6982785,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7235032718,
+  "lat": 30.1885673,
+  "lon": -7.8601404,
+  "tags": {
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7235043361,
+  "lat": 30.2438120,
+  "lon": -7.7596528,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7235045845,
+  "lat": 30.1920457,
+  "lon": -7.8613558,
+  "tags": {
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7365458291,
+  "lat": 34.9216597,
+  "lon": -2.1621502,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7684704285,
+  "lat": 29.8323919,
+  "lon": -9.1964769,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7684704385,
+  "lat": 29.8323769,
+  "lon": -9.1965463,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 7739400780,
+  "lat": 21.6020350,
+  "lon": -16.0728380,
+  "tags": {
+    "GNS:dsg_code": "WLL",
+    "GNS:id": "-1062349",
+    "man_made": "water_well",
+    "name": "Galb Edjir"
+  }
+},
+{
+  "type": "node",
+  "id": 8074360210,
+  "lat": 26.0239254,
+  "lon": -9.5189277,
+  "tags": {
+    "man_made": "water_well",
+    "ref": "حاسي عين بنتيلي"
+  }
+},
+{
+  "type": "node",
+  "id": 8174747027,
+  "lat": 34.9049032,
+  "lon": -5.7646304,
+  "tags": {
+    "man_made": "water_well",
+    "name": "ain"
+  }
+},
+{
+  "type": "node",
+  "id": 8213606714,
+  "lat": 34.8975731,
+  "lon": -5.7616050,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8213844838,
+  "lat": 28.4260881,
+  "lon": -11.1118360,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8682878364,
+  "lat": 31.6967197,
+  "lon": -6.4029747,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8695272319,
+  "lat": 26.3591755,
+  "lon": -10.1457137,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8776017117,
+  "lat": 26.1008422,
+  "lon": -9.8758127,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8776017218,
+  "lat": 26.1007714,
+  "lon": -9.8758614,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8776017219,
+  "lat": 26.1678102,
+  "lon": -9.9029868,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 8776017519,
+  "lat": 26.1678753,
+  "lon": -9.9021563,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9278165929,
+  "lat": 30.1953451,
+  "lon": -7.8548471,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9723275046,
+  "lat": 29.5830255,
+  "lon": -9.1328474,
+  "tags": {
+    "access": "customers",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "operator": "Association Tidli N'Ait Abbas pour le Dévelepoment et la Solidarité",
+    "pump": "powered",
+    "ref": "3248/79"
+  }
+},
+{
+  "type": "node",
+  "id": 9908156115,
+  "lat": 32.6396830,
+  "lon": -3.6153014,
+  "tags": {
+    "description": "Water well with water in stone hut",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9910202947,
+  "lat": 32.1967983,
+  "lon": -3.6191149,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 9922814957,
+  "lat": 31.2842223,
+  "lon": -4.3825277,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10111050931,
+  "lat": 34.2785406,
+  "lon": -3.3622376,
+  "tags": {
+    "man_made": "water_well",
+    "ref": "Puits pour irrigation"
+  }
+},
+{
+  "type": "node",
+  "id": 10167061781,
+  "lat": 30.2767157,
+  "lon": -7.8251349,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10259484725,
+  "lat": 29.7953769,
+  "lon": -8.9614836,
+  "tags": {
+    "man_made": "water_well",
+    "ref": "Pozzo acqua"
+  }
+},
+{
+  "type": "node",
+  "id": 10301281598,
+  "lat": 34.9233131,
+  "lon": -4.8058124,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر ريان- bir Rayan"
+  }
+},
+{
+  "type": "node",
+  "id": 10313000472,
+  "lat": 34.6026661,
+  "lon": -4.8497673,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Puit"
+  }
+},
+{
+  "type": "node",
+  "id": 10314377930,
+  "lat": 29.2358977,
+  "lon": -9.0007312,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10314470028,
+  "lat": 29.3401102,
+  "lon": -9.0135866,
+  "tags": {
+    "man_made": "water_well",
+    "name": "puits"
+  }
+},
+{
+  "type": "node",
+  "id": 10548697592,
+  "lat": 31.2564293,
+  "lon": -4.6656543,
+  "tags": {
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10676374682,
+  "lat": 34.9523399,
+  "lon": -3.9991774,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10687229089,
+  "lat": 34.6259232,
+  "lon": -4.8479444,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر"
+  }
+},
+{
+  "type": "node",
+  "id": 10733196505,
+  "lat": 32.1620085,
+  "lon": -2.7198806,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10733196507,
+  "lat": 30.9763464,
+  "lon": -4.0166994,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10737342088,
+  "lat": 29.9621161,
+  "lon": -9.1541131,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10773527343,
+  "lat": 33.9833133,
+  "lon": -2.9104868,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10887065761,
+  "lat": 30.2991465,
+  "lon": -7.8492895,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10889032827,
+  "lat": 30.7653236,
+  "lon": -8.3409432,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10922953509,
+  "lat": 24.4263231,
+  "lon": -14.7588305,
+  "tags": {
+    "description": "بئر مياه",
+    "man_made": "water_well",
+    "ref": "بير اطويرف"
+  }
+},
+{
+  "type": "node",
+  "id": 10922953528,
+  "lat": 21.8567591,
+  "lon": -14.3089840,
+  "tags": {
+    "man_made": "water_well",
+    "ref": "بير بخواكة"
+  }
+},
+{
+  "type": "node",
+  "id": 10931512235,
+  "lat": 30.1093837,
+  "lon": -6.2537125,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10946236125,
+  "lat": 30.6535679,
+  "lon": -8.0286416,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 10969702395,
+  "lat": 29.3166666,
+  "lon": -9.2140394,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11038535906,
+  "lat": 30.0203229,
+  "lon": -5.7302472,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11070301050,
+  "lat": 29.3147559,
+  "lon": -9.2138934,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "name": "تفضنا",
+    "name:ar": "تفضنا",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11076177826,
+  "lat": 29.3124115,
+  "lon": -9.2164114,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "operator": "Aami Said",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11076177840,
+  "lat": 29.3125696,
+  "lon": -9.2140490,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11076177842,
+  "lat": 29.3159380,
+  "lon": -9.2146914,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11076177844,
+  "lat": 29.3360103,
+  "lon": -9.2461886,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 11102647033,
+  "lat": 29.2920847,
+  "lon": -9.2148718,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "handle": "crank",
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11207796366,
+  "lat": 31.5602538,
+  "lon": -8.8131408,
+  "tags": {
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11207796378,
+  "lat": 31.5604157,
+  "lon": -8.8157732,
+  "tags": {
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11269958276,
+  "lat": 32.2319897,
+  "lon": -1.9451106,
+  "tags": {
+    "access": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11274451862,
+  "lat": 32.8096482,
+  "lon": -1.6732819,
+  "tags": {
+    "man_made": "water_well",
+    "ref": "Chott Tigri"
+  }
+},
+{
+  "type": "node",
+  "id": 11274478872,
+  "lat": 32.8092410,
+  "lon": -1.6729510,
+  "tags": {
+    "man_made": "water_well",
+    "ref": "Chott Tigri"
+  }
+},
+{
+  "type": "node",
+  "id": 11317583369,
+  "lat": 29.9186310,
+  "lon": -9.0912697,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11327873770,
+  "lat": 29.8686136,
+  "lon": -8.9488337,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11336367897,
+  "lat": 29.3111356,
+  "lon": -9.2144810,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:ar": "بئر شرب الماء",
+    "name:en": "Drinking Water",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11339231071,
+  "lat": 30.8766371,
+  "lon": -4.4153807,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Water Well M'Berika",
+    "name:fr": "Puits M'Berika"
+  }
+},
+{
+  "type": "node",
+  "id": 11341600122,
+  "lat": 29.3136905,
+  "lon": -9.2156627,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11341707975,
+  "lat": 29.3355760,
+  "lon": -9.2265374,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11341824042,
+  "lat": 29.3529295,
+  "lon": -9.2239549,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11348201685,
+  "lat": 29.3452570,
+  "lon": -9.2150514,
+  "tags": {
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)"
+  }
+},
+{
+  "type": "node",
+  "id": 11348201932,
+  "lat": 29.2820816,
+  "lon": -9.2094024,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "handle": "crank",
+    "man_made": "water_well",
+    "name": "بئر شرب الماء",
+    "name:en": "Drinking Water (Water Well)",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11348696743,
+  "lat": 29.3146586,
+  "lon": -9.2143787,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11349945330,
+  "lat": 30.9264609,
+  "lon": -8.6721875,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11364654236,
+  "lat": 31.4017190,
+  "lon": -3.9368654,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Nejarh Fougani"
+  }
+},
+{
+  "type": "node",
+  "id": 11375768880,
+  "lat": 29.3114356,
+  "lon": -9.2158321,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "no",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11409620963,
+  "lat": 34.4288595,
+  "lon": -4.5920318,
+  "tags": {
+    "access": "yes",
+    "man_made": "water_well",
+    "pump": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11443392019,
+  "lat": 29.3120571,
+  "lon": -9.2158456,
+  "tags": {
+    "access": "private",
+    "drinking_water": "no",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11455545370,
+  "lat": 33.4224057,
+  "lon": -7.5252430,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11459930508,
+  "lat": 35.1044447,
+  "lon": -5.3143811,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11459971848,
+  "lat": 35.1179461,
+  "lon": -5.2885878,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11459983338,
+  "lat": 35.0344176,
+  "lon": -5.6117603,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11459999130,
+  "lat": 35.0657864,
+  "lon": -5.6432057,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11479072089,
+  "lat": 30.5636675,
+  "lon": -6.3648579,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479072090,
+  "lat": 30.5581544,
+  "lon": -6.3382490,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479091728,
+  "lat": 30.5317037,
+  "lon": -6.3313732,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479091729,
+  "lat": 30.5301119,
+  "lon": -6.3289712,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479105595,
+  "lat": 30.5541817,
+  "lon": -6.2660882,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479105596,
+  "lat": 30.5544935,
+  "lon": -6.2656885,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479105597,
+  "lat": 30.5392986,
+  "lon": -6.2623653,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479105598,
+  "lat": 30.5404860,
+  "lon": -6.2638941,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479105599,
+  "lat": 30.5380638,
+  "lon": -6.2671423,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479105600,
+  "lat": 30.5458996,
+  "lon": -6.2767111,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11479105601,
+  "lat": 30.5447088,
+  "lon": -6.2861270,
+  "tags": {
+    "man_made": "water_well",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 11542463289,
+  "lat": 30.2622651,
+  "lon": -7.8051277,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11542463294,
+  "lat": 30.2602163,
+  "lon": -7.8035798,
+  "tags": {
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11549270338,
+  "lat": 31.7860969,
+  "lon": -7.8840209,
+  "tags": {
+    "access": "private",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 11602927748,
+  "lat": 33.0903529,
+  "lon": -6.4008834,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Ziehbrunnen"
+  }
+},
+{
+  "type": "node",
+  "id": 11739126344,
+  "lat": 30.7068637,
+  "lon": -6.0095810,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11841763071,
+  "lat": 29.9818578,
+  "lon": -5.5838780,
+  "tags": {
+    "amenity": "fountain",
+    "man_made": "water_well",
+    "name:en": "Park with Fountain"
+  }
+},
+{
+  "type": "node",
+  "id": 11850805841,
+  "lat": 29.8626888,
+  "lon": -5.4776752,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11892996351,
+  "lat": 31.6419956,
+  "lon": -8.2959809,
+  "tags": {
+    "abandoned": "yes",
+    "access": "no",
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 11967088671,
+  "lat": 29.3039209,
+  "lon": -9.2032356,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11967088715,
+  "lat": 29.2838248,
+  "lon": -9.2047893,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11967088719,
+  "lat": 29.2679087,
+  "lon": -9.2124632,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11967088757,
+  "lat": 29.3152436,
+  "lon": -9.2353009,
+  "tags": {
+    "access": "yes",
+    "drinking_water": "yes",
+    "man_made": "water_well",
+    "pump": "manual"
+  }
+},
+{
+  "type": "node",
+  "id": 11986237796,
+  "lat": 29.4318560,
+  "lon": -9.2093092,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 11986237797,
+  "lat": 29.4318475,
+  "lon": -9.2091301,
+  "tags": {
+    "drinking_water": "no",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12387827614,
+  "lat": 30.1846512,
+  "lon": -7.8950436,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12388505947,
+  "lat": 30.8095759,
+  "lon": -8.5183872,
+  "tags": {
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12539044007,
+  "lat": 31.1180017,
+  "lon": -7.8949919,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12714739301,
+  "lat": 35.3850199,
+  "lon": -5.9692146,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12751861006,
+  "lat": 34.9017889,
+  "lon": -5.9661834,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12974325185,
+  "lat": 30.0812052,
+  "lon": -5.6300923,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 12981057001,
+  "lat": 28.4837866,
+  "lon": -10.2962918,
+  "tags": {
+    "man_made": "water_well",
+    "name:ar": "ارض محمد المصطفي بيغريسن",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 12999728635,
+  "lat": 33.0199230,
+  "lon": -7.8369802,
+  "tags": {
+    "description": "The well stands dry and abandoned, its stone walls weathered and cracked.",
+    "drinking_water": "yes",
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13058450077,
+  "lat": 35.1907148,
+  "lon": -4.1303255,
+  "tags": {
+    "access": "unknown",
+    "man_made": "water_well",
+    "pump": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13170000641,
+  "lat": 30.7123514,
+  "lon": -4.5741314,
+  "tags": {
+    "man_made": "water_well",
+    "name:en": "Well Acacia",
+    "name:pt": "Poço Acácia"
+  }
+},
+{
+  "type": "node",
+  "id": 13281192987,
+  "lat": 29.3040451,
+  "lon": -8.9140437,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13282655682,
+  "lat": 30.1519818,
+  "lon": -7.7559129,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13285282204,
+  "lat": 30.6327045,
+  "lon": -7.9872145,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13316409401,
+  "lat": 30.6160943,
+  "lon": -8.1268477,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13317247601,
+  "lat": 30.5141167,
+  "lon": -8.5652806,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13333711601,
+  "lat": 27.6175035,
+  "lon": -10.5221584,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13333711602,
+  "lat": 27.6165969,
+  "lon": -10.5225830,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13350982801,
+  "lat": 25.9537443,
+  "lon": -13.9005737,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13351754575,
+  "lat": 30.1807295,
+  "lon": -7.4305369,
+  "tags": {
+    "man_made": "water_well",
+    "name": "Well"
+  }
+},
+{
+  "type": "node",
+  "id": 13424632001,
+  "lat": 25.6625108,
+  "lon": -13.3727991,
+  "tags": {
+    "man_made": "water_well",
+    "name": "لمريرة"
+  }
+},
+{
+  "type": "node",
+  "id": 13424633201,
+  "lat": 25.0211749,
+  "lon": -14.4089458,
+  "tags": {
+    "man_made": "water_well",
+    "name": "الجريفية"
+  }
+},
+{
+  "type": "node",
+  "id": 13426248201,
+  "lat": 22.6135716,
+  "lon": -14.4672199,
+  "tags": {
+    "man_made": "water_well",
+    "name": "لگلات"
+  }
+},
+{
+  "type": "node",
+  "id": 13521351965,
+  "lat": 30.1938245,
+  "lon": -8.0139333,
+  "tags": {
+    "man_made": "water_well"
+  }
+},
+{
+  "type": "node",
+  "id": 13534382112,
+  "lat": 33.4687118,
+  "lon": -7.9571029,
+  "tags": {
+    "access": "private",
+    "man_made": "water_well",
+    "pump": "powered"
+  }
+},
+{
+  "type": "node",
+  "id": 13545890801,
+  "lat": 30.4294557,
+  "lon": -9.1150922,
+  "tags": {
+    "man_made": "water_well",
+    "name": "عين البيضاء"
+  }
+},
+{
+  "type": "node",
+  "id": 13576184783,
+  "lat": 30.8931862,
+  "lon": -9.7988687,
+  "tags": {
+    "man_made": "water_well"
+  }
+}
+
+  ]
+}

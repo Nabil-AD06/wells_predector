@@ -11,7 +11,7 @@ export interface ForageResult {
 
 export async function analyzeForage(coord: LatLng): Promise<ForageResult> {
   try {
-    const response = await fetch("http://192.168.11.156:5000/predict", {
+    const response = await fetch("http://Your-adress-IP/predict", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
