@@ -1,58 +1,55 @@
-# AgriForage
+Water Well Detection AI 
+Overview :
 
-Application mobile Expo / React Native pour un usage agricole.
+This project is an AI-powered solution designed to help identify the most suitable locations for drilling water wells using satellite data.
 
-Fonctionnalites principales:
+The application allows users to select a location on a map and receive a probability of groundwater presence, helping reduce the risks, costs, and uncertainty associated with drilling.
 
-- bouton `Commencer`
-- selection d'un point sur la carte
-- affichage des coordonnees
-- bouton `Valider l'analyse`
-- estimation locale de probabilite de trouver de l'eau
-- informations supplementaires: profondeur estimee, debit probable, type de sol, aquifere probable, recommandations
+AI Model
 
-## Demarrage
+The model is trained to classify locations based on environmental features.
 
-1. Installer une version recente de Node.js.
+🔹 Input Features
+NDVI → Vegetation index 
+NDWI → Water/moisture index 
+Elevation → Terrain altitude 
+Slope → Terrain inclination 
+🔹 Output
+Probability of groundwater presence (0 → 1)
 
-Si PowerShell bloque `npm` / `npx` (erreur "running scripts is disabled"), utilisez les variantes `.cmd`:
+Data Sources
+Real well locations from OpenStreetMap (Overpass API)
+Satellite data via Google Earth Engine
+Environmental indices derived from Sentinel-2 and SRTM
 
-```bash
-npm.cmd install
-npx.cmd expo start
-```
 
-Ou bien autorisez uniquement la session courante PowerShell:
+How It Works
+Collect real well data (OpenStreetMap)
+Generate dataset with positive & negative samples
+Extract satellite features using Google Earth Engine
+Train machine learning model
+Serve model via Flask API
+Mobile app sends coordinates → receives prediction
 
-```powershell
-Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-```
 
-Sur iPhone, `Expo Go` installe depuis l'App Store doit correspondre a la meme SDK Expo que le projet. Ce projet a ete aligne sur `Expo SDK 54` pour rester compatible avec la version App Store actuelle d'Expo Go.
-
-2. Installer les dependances:
-
-```bash
-npm install
-```
-
-3. Lancer le projet:
-
-```bash
+Run the Project
+1. Prepare Dataset
+python src1/prepare_dataset_reel.py
+2. Extract Features
+python src1/extract_features.py
+3. Train Model
+python src1/train_model.py
+4. Run API
+python src1/app.py
+5. Test API
+python src1/test_api.py
+6. Run Mobile App
 npx expo start
-```
 
-4. Ouvrir l'application sur mobile avec Expo Go ou un emulateur.
 
-## Structure
 
-- `App.tsx`: point d'entree minimal de l'application
-- `src/features/forage/ForageMapScreen.tsx`: interface mobile principale
-- `src/features/forage/useForageWorkflow.ts`: orchestration frontend
-- `src/features/forage/services/forageAnalysisService.ts`: couche backend locale simulee
-- `src/features/forage/services/locationService.ts`: gestion de la geolocalisation
-- `src/utils/waterPotential.ts`: moteur d'estimation hydrique
-
-## Remarque
-
-La probabilite affichee est une estimation indicative pour une demonstration produit. Pour un vrai projet de forage, il faut faire une etude geophysique et hydrologique sur le terrain.
+Mobile App
+Interactive map (React Native)
+Click on any location
+Send coordinates to backend
+Display water probability
